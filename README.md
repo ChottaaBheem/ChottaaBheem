@@ -16,6 +16,5 @@ Thank you for visiting my profile! Feel free to connect with me and contact me. 
 <p align="left">
 <a href="https://github.com/ChottaaBheem">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChottaaBheem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChottaaBheem&layout=compact&theme=algolia"/>
 </a>
 </p>
